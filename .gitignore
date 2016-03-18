@@ -1,0 +1,7 @@
+.idea
+.settings
+target
+.classpath
+.project
+digidoc-maven-poc.iml
+digidoc4j.log
